@@ -1,4 +1,4 @@
-# Technical Description of PDDA Machine Learning Competition Solution
+# PDDA Machine Learning Competition Solution
 
 ## 1. Introduction
 ## 1.1 Background
